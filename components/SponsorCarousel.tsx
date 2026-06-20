@@ -4,6 +4,7 @@ import LogoLoop, { type LogoItem } from "./LogoLoop";
 
 const sponsorLogos: LogoItem[] = [
   { src: "/sponsors/Altium_idwRP5aLTr_0.png",          alt: "Altium",      title: "Altium" },
+  { src: "/sponsors/rapidharness.jpeg",           alt: "Rapid Harness", title: "Rapid Harness"},
   { src: "/sponsors/Ansys_idvqLHPwi0_1.png",           alt: "Ansys",       title: "Ansys" },
   { src: "/sponsors/SOLIDWORKS_idA6znzGC__0.png",       alt: "SOLIDWORKS",  title: "SOLIDWORKS" },
   { src: "/sponsors/balajiwires.png",                   alt: "Balaji Wires",title: "Balaji Wires" },
